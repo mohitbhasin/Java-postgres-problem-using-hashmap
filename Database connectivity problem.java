@@ -46,9 +46,6 @@ public class b
 	static ResultSet rs;
 	public static void main(String args[])
 	{
-		//String usr ="mbhasin";
-		//String pwd ="Stevens128278";
-		//String url ="jdbc:postgresql://155.246.89.29:5432/mbhasin";
 			String usr ="postgres";
 			String pwd ="12345";
 			String url ="jdbc:postgresql://localhost:5432/postgres";
