@@ -54,9 +54,7 @@ public class report_2
 		String pwd = "12345";
 		String url = "jdbc:postgresql://localhost:5432/postgres";   
 		
-		//String usr ="mbhasin";
-		//String pwd ="Stevens128278";
-		//String url ="jdbc:postgresql://155.246.89.29:5432/mbhasin";
+	
 		
 		
 		try {
