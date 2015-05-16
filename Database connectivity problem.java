@@ -1,6 +1,5 @@
 /*
 Prepared By MOHIT BHASIN.
-CWID 10400111
 
 *About the Program
 -This program will print average sales quantity of each combination of customer and product
